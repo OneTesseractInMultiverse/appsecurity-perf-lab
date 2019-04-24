@@ -1,0 +1,11 @@
+aiofiles==0.4.0
+attrs==19.1.0
+httptools==0.0.13
+multidict==4.5.2
+sanic==19.3.1
+Sanic-Cors==0.9.8
+Sanic-Plugins-Framework==0.7.0
+sanic-swagger==0.0.2
+ujson==1.35
+uvloop==0.12.2
+websockets==6.0
